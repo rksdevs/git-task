@@ -1,3 +1,4 @@
 // bike 2 - bmw GS1250 R
 //bike 1 - bmw s1000rr
 //bike 2 - Yamaha R1M
+//bike 3 - Yamaha R6
